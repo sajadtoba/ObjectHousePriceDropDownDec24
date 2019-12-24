@@ -15,6 +15,7 @@ public class HouseTest {
         System.out.println("------------------------The New Price After the Fire on Dec 23, 2019------------------------------------");
         System.out.println("");
 //  I created the 1st step of the required question
+        // (house) It is created object name   above with and used Constructor to initilized the value
 
         house.setPrice(50000);
         System.out.println("The House price dropped down after the fire destroyed the house   "+house.getPrice());
